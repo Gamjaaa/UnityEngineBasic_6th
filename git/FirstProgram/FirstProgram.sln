@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProgram", "FirstProgra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variable", "..\Variable\Variable.csproj", "{38356DF0-CD53-4962-B493-E155B7310F40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "..\Method\Method.csproj", "{B18ACD29-6F57-4082-BA92-A14BF275D5E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method", "..\Method\Method.csproj", "{B18ACD29-6F57-4082-BA92-A14BF275D5E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassObjectInstance", "..\..\CSharp\ClassObjectInstance\ClassObjectInstance.csproj", "{0B90E9F9-4FDE-4337-9A14-83ED977DEF9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassObjectInstance", "..\..\CSharp\ClassObjectInstance\ClassObjectInstance.csproj", "{0B90E9F9-4FDE-4337-9A14-83ED977DEF9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExample", "..\..\CSharp\ClassExample\ClassExample.csproj", "{D92C2409-D91E-4EB0-8D78-EB02A7117BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0B90E9F9-4FDE-4337-9A14-83ED977DEF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B90E9F9-4FDE-4337-9A14-83ED977DEF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B90E9F9-4FDE-4337-9A14-83ED977DEF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92C2409-D91E-4EB0-8D78-EB02A7117BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92C2409-D91E-4EB0-8D78-EB02A7117BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92C2409-D91E-4EB0-8D78-EB02A7117BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92C2409-D91E-4EB0-8D78-EB02A7117BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
