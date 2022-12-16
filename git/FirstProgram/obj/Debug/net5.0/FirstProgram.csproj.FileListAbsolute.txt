@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.exe
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.deps.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\obj\Debug\net5.0\refint\FirstProgram.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\FirstProgram\obj\Debug\net5.0\ref\FirstProgram.dll

@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\bin\Debug\net5.0\LoopStatements.exe
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\bin\Debug\net5.0\LoopStatements.deps.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\bin\Debug\net5.0\LoopStatements.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\bin\Debug\net5.0\LoopStatements.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\bin\Debug\net5.0\LoopStatements.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\bin\Debug\net5.0\LoopStatements.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\obj\Debug\net5.0\LoopStatements.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\obj\Debug\net5.0\LoopStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\obj\Debug\net5.0\LoopStatements.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\obj\Debug\net5.0\LoopStatements.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\obj\Debug\net5.0\LoopStatements.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\obj\Debug\net5.0\LoopStatements.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\obj\Debug\net5.0\refint\LoopStatements.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\obj\Debug\net5.0\LoopStatements.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\obj\Debug\net5.0\LoopStatements.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_6th\git\FirstProgram\LoopStatements\obj\Debug\net5.0\ref\LoopStatements.dll
